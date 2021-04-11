@@ -7,3 +7,4 @@ img.addEventListener("click", function() {
     cbx += 1;
     clicks.textContent = "Carbux: " + cbx;
 });
+
