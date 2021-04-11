@@ -1,4 +1,4 @@
-const img = document.getElementById('clicker');
+const img = document.getElementById('img');
 const clicks = document.getElementById('clicks');
 
 var cbx = 0;
