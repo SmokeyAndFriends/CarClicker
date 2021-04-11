@@ -2,3 +2,8 @@ body {
     text-align: center;
     font-family: 'Exo', sans-serif;
 }
+
+.am {
+    position: relative;
+    top: 100%;
+}
