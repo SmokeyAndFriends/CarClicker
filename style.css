@@ -4,5 +4,6 @@ body {
 }
 
 table.am {
-    vertical-align: 100%;
+    position: fixed;
+    top: 100%;
 }
