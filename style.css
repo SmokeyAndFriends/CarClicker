@@ -3,7 +3,7 @@ body {
     font-family: 'Exo', sans-serif;
 }
 
-.am {
+table.am {
     position: relative;
     top: 100%;
 }
