@@ -4,6 +4,6 @@ body {
 }
 
 .am {
-    position: fixed;
+    position: static;
     top: 100%;
 }
